@@ -1,0 +1,7 @@
+/*Fuente*/
+@font-face {
+    font-family: "SourceSansPro-Semibold";
+    font-style: normal;
+    font-weight: normal;
+    src: local("?"), url("/fuentes/SourceSansPro-Semibold.otf") format("otf");
+}
